@@ -35,7 +35,6 @@ if ($conn->query($sql_table) === TRUE) {
 } else {
     echo "Error creating table: " . $conn->error;
 }
-ini_set('display_errors', 1);
 header('Location : ASS_3a.html');
 exit();
 ?>
