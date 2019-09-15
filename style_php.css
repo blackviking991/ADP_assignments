@@ -1,0 +1,17 @@
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+form{
+	text-align: center;
+}
+.class1{
+	width: 200px;
+	height: 50px;
+	background-color: #2771b8;
+	color: white;
+}
+.class2{
+	width: 200px;
+	height: 30px;	
+}
